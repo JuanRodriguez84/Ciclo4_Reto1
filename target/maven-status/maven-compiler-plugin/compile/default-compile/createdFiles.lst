@@ -1,0 +1,6 @@
+com\usa\ciclo4\reto1\model\User.class
+com\usa\ciclo4\reto1\service\UserService.class
+com\usa\ciclo4\reto1\model\repository\UserRepository.class
+com\usa\ciclo4\reto1\web\UserController.class
+com\usa\ciclo4\reto1\model\repository\crud\UserCrudRepository.class
+com\usa\ciclo4\reto1\Reto1Application.class
